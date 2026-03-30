@@ -276,12 +276,12 @@ https://raw.githubusercontent.com/dedmasteriptv/moykanal/refs/heads/main/PlayerM
 #EXTGRP:Azerbaycan
 https://raw.githubusercontent.com/dedmasteriptv/moykanal/refs/heads/main/PlayerHindMusic.m3u8
 
+#EXTINF:-1,Fanatik Prime Eşref Tek
+#EXTGRP:Azerbaycan
+https://v2.catcast.tv/content/50827/seg-25926266-v1-a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://img.catcast.tv/uploads/26022026/logos/27146-69a07881100d5.png",BalacanTV
 #EXTGRP:Azerbaycan
 https://v2.catcast.tv/content/50634/seg-25745099-v1-a1/index.m3u8
-#EXTINF:-1,ismayilli tv
-#EXTGRP:Azerbaycan
-https://a8.radyotelekom.com.tr:3533/stream/play.m3u8
 #EXTINF:-1,Az Film
 #EXTGRP:Azerbaycan
 https://v2.catcast.tv/content/50545/seg-25649109-v1-a1/index.m3u8
